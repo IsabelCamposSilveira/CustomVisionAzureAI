@@ -1,0 +1,5 @@
+azure.core
+streamlit
+azure-storage-blob
+python-dotenv
+azure-cognitiveservices-vision-customvision
